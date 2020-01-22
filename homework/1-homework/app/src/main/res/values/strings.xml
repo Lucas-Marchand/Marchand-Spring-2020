@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catalytic Converter Utility</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_converter">Add Converter</string>
+    <string name="title_activity_add_converter">add_converter</string>
+    <string name="editText_make">Make</string>
+    <string name="editText_model">Model</string>
+    <string name="editText_year">Year</string>
+    <string name="editText_partnumber">Part Number</string>
+    <string name="button_concat">Concatenate</string>
+    <string name="button_add">Add</string>
+    <string name="textview_valueof">Process completed</string>
+</resources>
