@@ -52,8 +52,11 @@ class MainActivity : AppCompatActivity() {
                 val password = data?.getStringExtra("password")
                 textView2.visibility = View.VISIBLE
                 textView_password.text = password.toString()
+
+                val user = User(userName = editText_username.text.toString(), password = password.toString())
             }
-            if (resultCode == Activity.RESULT_CANCELED) { //Write your code if there's no result
+            if (resultCode == Activity.RESULT_CANCELED) {
+
             }
         }
     } //onActivityResult
@@ -66,6 +69,18 @@ class MainActivity : AppCompatActivity() {
         return when (item.itemId) {
             R.id.action_settings -> true
             else -> super.onOptionsItemSelected(item)
+        }
+    }
+
+    class User(userName: String, password: String) {
+        companion object Factory {
+            val users = mutableListOf<User>()
+
+            fun makeUser(userName: String, password: String): User {
+                val user = User(userName, password)
+                users.add(user)
+                return user
+            }
         }
     }
 }
