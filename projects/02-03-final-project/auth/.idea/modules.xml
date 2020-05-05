@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../internal/chooserx/02-03-final-project-internal-chooserx.iml" filepath="$PROJECT_DIR$/../internal/chooserx/02-03-final-project-internal-chooserx.iml" group="auth/internal/chooserx" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lint/02-03-final-project-internal-lint.iml" filepath="$PROJECT_DIR$/../internal/lint/02-03-final-project-internal-lint.iml" group="auth/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lintchecks/02-03-final-project-internal-lintchecks.iml" filepath="$PROJECT_DIR$/../internal/lintchecks/02-03-final-project-internal-lintchecks.iml" group="auth/internal/lintchecks" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="auth/app" />
+      <module fileurl="file://$PROJECT_DIR$/auth.iml" filepath="$PROJECT_DIR$/auth.iml" group="auth" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/chooserx/chooserx.iml" filepath="$PROJECT_DIR$/../internal/chooserx/chooserx.iml" group="auth/internal/chooserx" />
+      <module fileurl="file://$PROJECT_DIR$/internal/internal.iml" filepath="$PROJECT_DIR$/internal/internal.iml" group="auth/internal" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/chooserx/internal-chooserx.iml" filepath="$PROJECT_DIR$/../internal/chooserx/internal-chooserx.iml" group="auth/internal/chooserx" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lint/internal-lint.iml" filepath="$PROJECT_DIR$/../internal/lint/internal-lint.iml" group="auth/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lintchecks/internal-lintchecks.iml" filepath="$PROJECT_DIR$/../internal/lintchecks/internal-lintchecks.iml" group="auth/internal/lintchecks" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lint/lint.iml" filepath="$PROJECT_DIR$/../internal/lint/lint.iml" group="auth/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lintchecks/lintchecks.iml" filepath="$PROJECT_DIR$/../internal/lintchecks/lintchecks.iml" group="auth/internal/lintchecks" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lint/projects-02-03-final-project-internal-lint.iml" filepath="$PROJECT_DIR$/../internal/lint/projects-02-03-final-project-internal-lint.iml" group="auth/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/../internal/lintchecks/projects-02-03-final-project-internal-lintchecks.iml" filepath="$PROJECT_DIR$/../internal/lintchecks/projects-02-03-final-project-internal-lintchecks.iml" group="auth/internal/lintchecks" />
+    </modules>
+  </component>
+</project>

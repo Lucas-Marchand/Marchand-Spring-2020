@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920592347608",
+    "firebase_url": "https://onfire-89b1a.firebaseio.com",
+    "project_id": "onfire-89b1a",
+    "storage_bucket": "onfire-89b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920592347608:android:9edf416815e02c06af42ad",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920592347608-m5pn3ek68ctjl8jeev9hctvi4vksup1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "afdf45a929a3017d3ec668689ab3523430c4d54d"
+          }
+        },
+        {
+          "client_id": "920592347608-vo5bgcd870q1ika9fivhopb5n8d59uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfulWrhrIPe158xHnqA_4RO-iiawiNLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920592347608-vo5bgcd870q1ika9fivhopb5n8d59uuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
